@@ -1,0 +1,30 @@
+.filtersContainer{
+    padding:1rem;    
+    background-color: white;
+}
+.filtersTitle{
+    font-weight: bold;
+        }
+.launchYear{
+    text-align: center;
+    border-bottom: 1px solid black;
+    margin-bottom: 0.5rem;
+}
+.years{
+    display:flex;
+    flex-wrap: wrap;
+    padding:2px;
+    
+}
+.year{
+width:40%;
+padding:2px;
+background:#c5e09b;
+margin-bottom:  10px;
+margin-right: 19px;
+text-align: center;
+border-radius: 10px;
+}  
+.Successfilter{
+    margin-top: 0.5rem;
+}
